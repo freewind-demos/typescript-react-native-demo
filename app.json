@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "javascript-react-native-demo",
-    "slug": "javascript-react-native-demo",
+    "name": "typescript-react-native-demo",
+    "slug": "typescript-react-native-demo",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
