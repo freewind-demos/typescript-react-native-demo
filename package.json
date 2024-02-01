@@ -7,16 +7,16 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^32.0.0",
+    "expo": "32.0.0",
     "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz"
+    "react-native": "32.0.0.tar.gz"
   },
   "devDependencies": {
     "@types/react": "16.8.8",
     "@types/react-native": "0.57.51",
-    "babel-preset-expo": "^5.0.0",
+    "babel-preset-expo": "5.0.0",
     "react-native-typescript-transformer": "1.2.12",
-    "typescript": "3.4.5"
+    "typescript": "5.3.3"
   },
   "private": true
 }
